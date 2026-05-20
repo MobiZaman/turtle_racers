@@ -4,7 +4,7 @@ import time
 
 # set up the game window
 screen = turtle.Screen()
-screen.title("Turtle Racers")
+screen.title("Turtle Race Track")
 screen.bgcolor("black")
 screen.setup(width=800, height=500)
 screen._root.iconbitmap("icon.ico")
