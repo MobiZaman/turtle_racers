@@ -16,4 +16,6 @@ A simple Python-based turtle racing game where multiple turtles compete on a tra
 
 1. Install Python 3
 2. Download or clone this repo
-3. Run: **python main.py**
+3. Open cmd inside the folder
+4. Type: **python main.py**
+5. Press Enter
